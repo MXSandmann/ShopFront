@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zuNvnvgfK1oKQEFWnEgAF9IykBJkDoctLH4w3k9q6WTjzg8O/bWczzjBEfiqXzFmmTi6ao4uZz3np1/1hELo2w==",
+  "dgSpecHash": "KtpAjRcKYvdvEFm/9ffYIa85QMWtg9Xkuio6BKlHDt+gmBiAv4i37S1YDDvHXaiXVD99yJ5VnDBfrTVm1Auhmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\maxim\\source\\repos\\Petprojects\\ShopFront\\Shopfront\\Shopfront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
