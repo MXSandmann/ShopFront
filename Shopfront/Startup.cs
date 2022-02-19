@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataAccess;
+using Microsoft.EntityFrameworkCore;
 
 namespace Shopfront
 {
@@ -32,6 +34,13 @@ namespace Shopfront
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Shopfront", Version = "v1" });
             });
+
+            services.AddDbContext<ApplicationDbContext>(x =>
+            {
+                x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

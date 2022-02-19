@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Domain
 {
@@ -19,5 +20,7 @@ namespace Domain
         public string Name { get; private set; }
         public string Desciption { get; private set; }
         public uint Count { get; private set; }
+
+        public ICollection<User> Users { get; private set; }
     }
 }

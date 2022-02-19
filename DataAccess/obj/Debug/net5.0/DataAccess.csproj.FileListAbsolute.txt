@@ -13,3 +13,6 @@ C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\obj\Debug\net5.0\Da
 C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\obj\Debug\net5.0\DataAccess.dll
 C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\maxim\source\repos\Petprojects\ShopFront\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

@@ -19,5 +19,6 @@ namespace Domain
         }
 
         public string Name { get; private set; }
+        public ICollection<Item> Items { get; private set; }
     }
 }
