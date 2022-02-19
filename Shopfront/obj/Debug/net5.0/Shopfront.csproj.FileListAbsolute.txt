@@ -11,7 +11,6 @@ C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\bin\Debug\net5.0\Mic
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.csproj.AssemblyReference.cache
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.AssemblyInfoInputs.cache
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.AssemblyInfo.cs
@@ -26,3 +25,4 @@ C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Sho
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\ref\Shopfront.dll
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.pdb
 C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.genruntimeconfig.cache
+C:\Users\maxim\source\repos\Petprojects\ShopFront\Shopfront\obj\Debug\net5.0\Shopfront.csproj.AssemblyReference.cache

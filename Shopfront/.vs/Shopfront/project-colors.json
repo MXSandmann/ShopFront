@@ -5,7 +5,27 @@
       "ProjectGuid": "8d954120-b059-4352-bddf-b3dd28de4ce7",
       "DisplayName": "Shopfront",
       "ColorIndex": 0
+    },
+    "71ff01f0-a4b0-4efe-953f-27feb489c078": {
+      "ProjectGuid": "71ff01f0-a4b0-4efe-953f-27feb489c078",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "9a5ee687-aec6-4421-b08b-a4a32042d7fa": {
+      "ProjectGuid": "9a5ee687-aec6-4421-b08b-a4a32042d7fa",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "38c76a28-b0b9-4ac2-a1cb-d5e07d5c4d05": {
+      "ProjectGuid": "38c76a28-b0b9-4ac2-a1cb-d5e07d5c4d05",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

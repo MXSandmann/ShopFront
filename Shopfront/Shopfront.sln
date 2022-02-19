@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopfront", "Shopfront.csproj", "{8D954120-B059-4352-BDDF-B3DD28DE4CE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopfront", "Shopfront.csproj", "{8D954120-B059-4352-BDDF-B3DD28DE4CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{9A5EE687-AEC6-4421-B08B-A4A32042D7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{38C76A28-B0B9-4AC2-A1CB-D5E07D5C4D05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8D954120-B059-4352-BDDF-B3DD28DE4CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D954120-B059-4352-BDDF-B3DD28DE4CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D954120-B059-4352-BDDF-B3DD28DE4CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5EE687-AEC6-4421-B08B-A4A32042D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5EE687-AEC6-4421-B08B-A4A32042D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5EE687-AEC6-4421-B08B-A4A32042D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5EE687-AEC6-4421-B08B-A4A32042D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C76A28-B0B9-4AC2-A1CB-D5E07D5C4D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C76A28-B0B9-4AC2-A1CB-D5E07D5C4D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C76A28-B0B9-4AC2-A1CB-D5E07D5C4D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C76A28-B0B9-4AC2-A1CB-D5E07D5C4D05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
