@@ -37,7 +37,7 @@ namespace Shopfront
 
             services.AddDbContext<ApplicationDbContext>(x =>
             {
-                x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+                x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection_test2"));
             });
 
            
